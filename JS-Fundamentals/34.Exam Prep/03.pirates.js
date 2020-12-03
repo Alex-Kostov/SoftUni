@@ -1,4 +1,4 @@
-
+//Problem 3. P!rates
 function solve(arr) {
 
     let villages = []
